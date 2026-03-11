@@ -17,4 +17,8 @@ I’ve been a tinkerer since I was a little kid. I knew I wanted to work with co
 - I consider jigsaw puzzles a competitive sport.
 - I've been an Airbnb Superhost for many years. Check out my [house in Kissimmee, FL](https://www.airbnb.com/rooms/4736497) next time you want to go see Mickey!
 
+### Human User Guide Template
+
+Find out how to best work with me [here](https://github.com/trespilhas/trespilhas/blob/main/human-user-guide.md)!
+
 [![guestbook](https://github.com/user-attachments/assets/acaec8bb-920d-4998-b99a-35b6683cd820)](https://github.com/andregce/andregce/discussions/1)
