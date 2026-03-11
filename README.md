@@ -2,7 +2,7 @@
 
 👋 Hi! Oi! Hola! I’m André. 
 
-I was born and raised in a small town in Brazil called Poços de Caldas (state of Minas Gerais), but I’ve spent most of my life in South Florida (anywhere between West Palm and Ft. Lauderdale). I’m currently living in St Thomas, in the U.S. Virgin Islands.
+I was born and raised in a small town in Brazil called Poços de Caldas (state of Minas Gerais), but I’ve spent most of my life in South Florida (anywhere between West Palm and Ft. Lauderdale). I’m currently living in Jax Beach, FL, after spending almost 4 years in St Thomas, U.S. Virgin Islands.
 
 I’ve been a tinkerer since I was a little kid. I knew I wanted to work with computers ever since my family bought our first one, back in the early 90s. I was fascinated by the idea that machine instructions could be converted into interactable programs. I started learning QBasic (mostly by tinkering with [GORILLA.BAS](https://en.wikipedia.org/wiki/Gorillas_(video_game)) and [NIBBLES.BAS](https://en.wikipedia.org/wiki/Nibbles_(video_game))). After finishing High School in Brazil I moved to the US and earned a Computer Engineering degree from Florida Atlantic University. Since graduation I’ve worked with both hardware and software, both as a software engineer and product manager.
 
